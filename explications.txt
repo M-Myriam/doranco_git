@@ -1,0 +1,1 @@
+quand on tape git init : ca initialise un dépôt (rpository) git, ca cré un fichier caché ".git" dans le dossier htdocs doranco
